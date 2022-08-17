@@ -20,3 +20,14 @@ Utiliza-se o Math.pow para calcular a potência.
 ~~~~
 (([6*(3+2)]²/3*2 - ((1-5)*(2-7)/2)²)³/10³
 ~~~~
+
+[EXERCÍCIO III](https://github.com/cmarih/exercicios-java/blob/master/src/desafioLogicos.java)
+
+Um simples codigo para reforrçar o conhecimento adquirido em operadores
+lógicos.
+
+~~~~JAVA
+        boolean comprouTV50 = trabalhoQuinta && trabalhoSexta;
+        boolean comprouTV32 = trabalhoQuinta ^ trabalhoSexta;
+        boolean comprouSorvete = trabalhoQuinta || trabalhoSexta;
+~~~~
