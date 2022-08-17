@@ -12,7 +12,7 @@ O replace(a, b), foi utilizado para o dado númerico recebido
 utilizando ',' ou '.' fosse aceitável para a realização do 
 calculo da media.
 
-[EXERCÍCIO II]()
+[EXERCÍCIO II](https://github.com/cmarih/exercicios-java/blob/master/src/desafioAritmetico.java)
 
 Escrevendo em código, a formula aritmética abaixo. 
 Utiliza-se o Math.pow para calcular a potência.
