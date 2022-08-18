@@ -39,3 +39,11 @@ Um simples codigo para reforçar o conhecimento adquirido em operador condiciona
 ~~~~JAVA
         condicao ? valor : valor;
 ~~~~
+
+[EXERCÍCIO V](https://github.com/cmarih/exercicios-java/commit/ad9be30c0829471c95a6a491e7f62da9f4519a9b)
+
+Conversão de Fahrenheit para Celsius.
+
+~~~~JAVA
+         int celsius = (tempF - 32) * 5/9;
+~~~~
