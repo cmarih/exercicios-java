@@ -55,3 +55,11 @@ Conversão de Celsius para Fahrenheit.
 ~~~~JAVA
         int tempF = (celsius * 9/5) + 32;
 ~~~~
+
+[EXERCÍCIO VII](https://github.com/cmarih/exercicios-java/commit/0a68ad578c1133f915bb1b72421e1640bf1b8d25)
+
+Programa que lê o peso e a altura do usuário e imprime no console o IMC.
+
+~~~~JAVA
+        double imc = peso/(altura * altura);
+~~~~
