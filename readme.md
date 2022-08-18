@@ -23,11 +23,19 @@ Utiliza-se o Math.pow para calcular a potência.
 
 [EXERCÍCIO III](https://github.com/cmarih/exercicios-java/blob/master/src/desafioLogicos.java)
 
-Um simples codigo para reforrçar o conhecimento adquirido em operadores
+Um simples codigo para reforçar o conhecimento adquirido em operadores
 lógicos.
 
 ~~~~JAVA
         boolean comprouTV50 = trabalhoQuinta && trabalhoSexta;
         boolean comprouTV32 = trabalhoQuinta ^ trabalhoSexta;
         boolean comprouSorvete = trabalhoQuinta || trabalhoSexta;
+~~~~
+
+[EXERCÍCIO IV](https://github.com/cmarih/exercicios-java/commit/4343677554d6d0c644ea067bad4e4dfce05b7cda)
+
+Um simples codigo para reforçar o conhecimento adquirido em operador condicional ternário.
+
+~~~~JAVA
+        condicao ? valor : valor;
 ~~~~
