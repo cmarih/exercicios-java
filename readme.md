@@ -47,3 +47,11 @@ Conversão de Fahrenheit para Celsius.
 ~~~~JAVA
          int celsius = (tempF - 32) * 5/9;
 ~~~~
+
+[EXERCÍCIO VI](https://github.com/cmarih/exercicios-java/commit/09ac44d1ded533c8ccdd9f745a3ec94a6e985f53)
+
+Conversão de Celsius para Fahrenheit.
+
+~~~~JAVA
+        int tempF = (celsius * 9/5) + 32;
+~~~~
