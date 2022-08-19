@@ -79,5 +79,18 @@ Programa que lê um número e retorna o valor quadrado e ao cubo do mesmo.
 Programa que lê a altura e a base de um triângulo e retorna o valor da area.
 
 ~~~~JAVA
-        ouble areaTriangulo = base * altura / 2;
+        double areaTriangulo = base * altura / 2;
+~~~~
+
+[EXERCÍCIO X](https://github.com/cmarih/exercicios-java/commit/04bf03c49b873886bcf9db45d93ef1d7d25be98e)
+
+Programa que calcula uma equação do 2° grau com a formula de Bhaskara.
+
+~~~~JAVA
+        //Encontrar o valor de DELTA
+        double delta = Math.pow(b,2) - (4 * (a * c));
+
+        //Encontrar os valores de X¹ e X²
+        double x1 = (-b +(Math.sqrt(delta)))/(2 * a);
+        double x2 = (-b -(Math.sqrt(delta)))/(2 * a);
 ~~~~
