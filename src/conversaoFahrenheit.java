@@ -4,7 +4,7 @@ public class conversaoFahrenheit {
 
         Scanner entrada = new Scanner(System.in);
 
-        System.out.println("Informa a temperatura em °F: ");
+        System.out.println("Informa a temperatura em °C: ");
         int celsius = entrada.nextInt();
 
         int tempF = (celsius * 9/5) + 32;
