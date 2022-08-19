@@ -13,9 +13,9 @@ public class areaTriangulo {
         String vlAltura = scanner.next().replace(",", ".");
         double altura = Double.parseDouble(vlAltura);
 
-        double areaCubo = base * altura / 2;
+        double areaTriangulo = base * altura / 2;
 
-        System.out.printf("A area calculada do triângulo é %.1f.",areaCubo);
+        System.out.printf("A area calculada do triângulo é %.1f.",areaTriangulo);
 
         scanner.close();
     }
