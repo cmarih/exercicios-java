@@ -73,3 +73,11 @@ Programa que lê um número e retorna o valor quadrado e ao cubo do mesmo.
         double quadrado = Math.pow(numero,2);
         double cubo = Math.pow(numero,3);
 ~~~~
+
+[EXERCÍCIO IX](https://github.com/cmarih/exercicios-java/commit/1cc1459eb8778978b8313c7d8c95c1b0a775da9f)
+
+Programa que lê a altura e a base de um triângulo e retorna o valor da area.
+
+~~~~JAVA
+        ouble areaTriangulo = base * altura / 2;
+~~~~
