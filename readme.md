@@ -63,3 +63,13 @@ Programa que lê o peso e a altura do usuário e imprime no console o IMC.
 ~~~~JAVA
         double imc = peso/(altura * altura);
 ~~~~
+
+[EXERCÍCIO VIII](https://github.com/cmarih/exercicios-java/commit/19ccb3e0662211c1f3775f8849bfa05e5d97d3f7)
+
+Programa que lê um número e retorna o valor quadrado e ao cubo do mesmo.
+
+~~~~JAVA
+          //Utilizando Math para elevar o numero a potência.
+        double quadrado = Math.pow(numero,2);
+        double cubo = Math.pow(numero,3);
+~~~~
